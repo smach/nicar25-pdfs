@@ -3,6 +3,7 @@
 #### Derek Willis, University of Maryland
 #### NICAR 25
 
+## https://github.com/dwillis/nicar25-pdfs
 ## SEND ME BAD PDFS: dwillis@gmail.com
 
 ## TL;DR
