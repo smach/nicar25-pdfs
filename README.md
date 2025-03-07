@@ -3,6 +3,8 @@
 #### Derek Willis, University of Maryland
 #### NICAR 25
 
+## SEND ME BAD PDFS: dwillis@gmail.com
+
 ## TL;DR
 
 * Google Gemini Flash 2.0 is now my starting point for extracting text and tables from image PDFs.
